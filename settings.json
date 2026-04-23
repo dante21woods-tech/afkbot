@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "aternos",
         "I like to play Minecraft!"
       ]
     },
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1496706706204266598/ZCQAz-OV2He0WaeH4Ns5UeMCfwKt3kKU20oAbukyAFd5Wl1sbdzGEDyNy3GwVtHXIDLT",
     "events": {
       "connect": true,
       "disconnect": true,
